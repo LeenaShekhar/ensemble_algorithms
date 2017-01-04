@@ -1,6 +1,6 @@
 # Ensemble algorithms
 
-### Ensemble learning means combining many different classifiers into oe stronger classifier. THis can be done in many different ways.
+### Ensemble learning means combining many different classifiers into oe stronger classifier. This can be done in many different ways.
 
 1. Bagging
 2. Boosting
